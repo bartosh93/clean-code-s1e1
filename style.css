@@ -130,7 +130,7 @@ input,button{
 
 /* Completed */
 .app-todo-tasks_completed label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
