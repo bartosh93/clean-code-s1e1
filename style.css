@@ -1,5 +1,5 @@
 /* Basic Style */
-body {
+.body {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -47,7 +47,8 @@ input,
 button{
   outline: none;
 }
-.task-item__btn, .add-todo__btn {
+.task-item__btn, 
+.add-todo__btn {
   background: none;
   border: 0px;
   color: #888;
