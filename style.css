@@ -35,13 +35,9 @@
 .add-todo__wrapper {
   display: flex;
 }
-ul {
+.app-todo-tasks {
   margin: 0;
   padding: 0px;
-}
-li,
-h3 {
-  list-style: none;
 }
 input,
 button{
